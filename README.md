@@ -112,10 +112,6 @@ For broader inquiries or collaborations with Relun, please refer to our main [or
 
 ---
 
-<p align="center">
-  <sub>
-    Crafted with precision from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1200px-Flag_of_Morocco.svg.png" alt="Morocco Flag" width="20"> Casablanca, Morocco.
-  </sub>
-</p>
+
 
 ---
